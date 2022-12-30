@@ -1,0 +1,25 @@
+.box{
+	width: 400px;
+	height: 200px;
+	background-color: deepskyblue;
+
+}
+.map{
+	width: 100%;
+	height: 500px;
+	border:0;
+}
+.yt{
+	width: 33%;
+	height: 300px;
+}
+h1 span{
+	color: deepskyblue;
+}
+h2 span{
+	color: red;
+}
+.src{
+	width: 1920px;
+	height: 8492px;
+}
